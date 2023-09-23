@@ -70,3 +70,29 @@ Hello, world.
 /||*+-------------+*||/
 /|+-----------------+|/
 /+-------------------+/
+
+\TemplateMethod>python3 template_yuki.py
+<<HHHHH>>
++-------------+
+|Hello, world.|
+|Hello, world.|
+|Hello, world.|
+|Hello, world.|
+|Hello, world.|
++-------------+
+
+\Visitor>python3 visitor_yuki.py
+/bin (30000)
+/bin/vi (10000)
+/bin/latex (20000)
+/tmp (0)
+/usr (1850)
+/usr/yuki (300)
+/usr/yuki/diary.html (100)
+/usr/yuki/Composite.java (200)
+/usr/hanako (650)
+/usr/hanako/memo.tex (300)
+/usr/hanako/index.html (350)
+/usr/tomura (900)
+/usr/tomura/game.doc (400)
+/usr/tomura/junk.mail (500)
