@@ -56,3 +56,17 @@ DigitObserver: 18
 GraphObserver: ******************
 DigitObserver: 27
 GraphObserver: ***************************
+
+DesignPattern_py_techscore# python3 Decorator/decorator_yuki.py
+Hello, world.
+#Hello, world.#
++---------------+
+|#Hello, world.#|
++---------------+
+/+-------------------+/
+/|+-----------------+|/
+/||*+-------------+*||/
+/||*|Hello, world.|*||/
+/||*+-------------+*||/
+/|+-----------------+|/
+/+-------------------+/

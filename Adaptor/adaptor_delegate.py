@@ -11,7 +11,7 @@ class Banner:
         print("*{}*".format(self.string))
 
 
-class Print:
+class Print(ABC):
 
     @abstractmethod
     def print_weak(self):
